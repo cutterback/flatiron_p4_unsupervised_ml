@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+45d162f6d6b5ce8a90f62efc629bba2c4d7ebecb refs/remotes/origin/curriculum
+515cdcb6ae1a6867890666503436def65c8d3063 refs/remotes/origin/master
+97b291934ced654491cd5a20d53339f80b8c0432 refs/remotes/origin/solution
